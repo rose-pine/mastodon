@@ -13,9 +13,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Go to `https://yourinstance.com/admin/settings/edit`
+2. Scroll down to the bottom
+3. Paste the contents of [custom.css](https://github.com/rose-pine/mastodon/blob/main/custom.css) into Custom CSS
+4. Click `SAVE CHANGES`
 
 ## Gallery
 
