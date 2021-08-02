@@ -20,6 +20,8 @@
 
 ## Gallery
 
+### As featured on default on https://voring.me
+
 ![Mastodon](assets/template.png)
 
 ## Thanks to
