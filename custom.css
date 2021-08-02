@@ -64,3 +64,7 @@ body {
 .text-icon-button {
     color: #eb6f92;
 }
+
+.column-link--transparent.active {
+    color: #31748f;
+}
