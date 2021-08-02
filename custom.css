@@ -1,0 +1,66 @@
+body {
+  background: #1f1d2e;
+  color: #e0def4;
+}
+
+.tabs-bar__wrapper {
+    background: #1f1d2e;
+}
+
+.tabs-bar__link.active {
+    border-bottom: 2px solid #eb6f92;
+    color: #f6c177;
+}
+
+.notification__message .fa {
+    color: #c4a7e7;
+}
+
+.status {
+    border-bottom: 1px solid #31748f;
+}
+
+.icon-with-badge__badge {
+    background: #9ccfd8;
+    border: 2px solid #1f1d2e;
+}
+
+.search__input {
+    border-radius: 4rem;
+    background: #555169;
+    color: #9ccfd8;
+}
+
+.icon-button.star-icon.active, .notification__favourite-icon-wrapper .star-icon {
+    color: #f6c177;
+}
+
+.icon-button {
+    color: #31748f;
+}
+
+.notification__message{
+  color: #6e6a86;
+}
+
+.muted .status__content, .muted .status__content a, .muted .status__content p, .muted .status__display-name strong {
+    color: #6e6a86;
+}
+
+.column-header.active .column-header__icon {
+    color: #2b90d9;
+    text-shadow: 0 0 10px rgb(43 144 217 / 40%);
+}
+
+.column-header.active .column-header__icon {
+    color: #9ccfd8;
+    text-shadow: 0 0 10px rgb(246 193 119 / 40%);
+}
+
+.icon-button.active {
+    color: #ebbcba;
+}
+
+.text-icon-button {
+    color: #eb6f92;
+}
