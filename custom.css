@@ -68,3 +68,8 @@ body {
 .column-link--transparent.active {
     color: #31748f;
 }
+
+
+.account__section-headline button, .notification__filter-bar button {
+    background: #191724;
+}
