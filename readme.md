@@ -22,7 +22,7 @@
 
 ### As featured on default on https://voring.me
 
-![image](https://user-images.githubusercontent.com/44733677/128585487-da54bbf2-b726-46df-a93a-a5b7217f0958.png)
+![image](https://user-images.githubusercontent.com/44733677/128585498-dc3db601-2afe-4911-889a-cd6d1a483b0d.png)
 
 
 ## Thanks to
