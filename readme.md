@@ -22,7 +22,8 @@
 
 ### As featured on default on https://voring.me
 
-![Mastodon](assets/template.png)
+![image](https://user-images.githubusercontent.com/44733677/128585487-da54bbf2-b726-46df-a93a-a5b7217f0958.png)
+
 
 ## Thanks to
 
