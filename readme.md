@@ -20,7 +20,7 @@
 
 ## Gallery
 
-### As featured on default on https://voring.me
+### As featured by default on https://voring.me
 
 ![image](https://user-images.githubusercontent.com/44733677/128585498-dc3db601-2afe-4911-889a-cd6d1a483b0d.png)
 
