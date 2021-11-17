@@ -3,6 +3,10 @@ body {
     color: #e0def4;
 }
 
+html {
+    scrollbar-color: #555169 rgba(0,0,0,.1);
+}
+
 a {
     color: #31748f;
 }
