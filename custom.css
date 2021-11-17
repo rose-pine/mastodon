@@ -387,3 +387,28 @@ select {
     background: #26233a;
     color: #e0def4;
 }
+
+.emoji-mart-bar:first-child {
+    background: #1f1d2e;
+}
+
+.emoji-mart-bar:first-child {
+    background: #6e6a86;
+}
+
+.emoji-mart-anchor:hover {
+    color: #e0def4;
+}
+
+.emoji-mart-search {
+    background: #1f1d2e;
+}
+
+.emoji-mart-search input {
+    background: #555169;
+    color: #e0def4;
+}
+
+.emoji-mart-scroll {
+    background: #1f1d2e;
+}
