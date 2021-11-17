@@ -4,7 +4,7 @@ body {
 }
 
 html {
-    scrollbar-color: #555169 rgba(0,0,0,.1);
+    scrollbar-color: #555169 rgba(0, 0, 0, 0.1);
 }
 
 a {
@@ -99,8 +99,14 @@ a {
     color: #e0def4;
 }
 
-button {
+.button--block,
+.logo-button {
     background-color: #31748f;
+    color: #e0def4;
+}
+
+.button--block:hover {
+    background-color: #9ccfd8;
     color: #e0def4;
 }
 
@@ -184,6 +190,11 @@ button {
     color: #31748f;
 }
 
+.column-back-button {
+    background: #26233a;
+    color: #31748f;
+}
+
 .column-subheading {
     background: #555169;
     color: #e0def4;
@@ -203,4 +214,43 @@ button {
 
 .detailed-status {
     background: #26233a;
+}
+
+.detailed-status__action-bar {
+    background: #2a2837;
+}
+
+.scrollable {
+    background: #26233a;
+}
+
+.column {
+    background: #26233a !important;
+}
+
+.account__header__bar {
+    background: #26233a !important;
+}
+
+.admin-wrapper {
+    background: #1f1d2e;
+}
+.account__section-headline,
+.notification__filter-bar {
+    background: #191724;
+    border-bottom: 1px solid #31748f;
+}
+
+.button.logo-button.button--destructive:focus,
+.button.logo-button.button--destructive:hover {
+    background: #eb6f92;
+}
+
+.button.logo-button {
+    background: #31748f;
+    color: #e0def4;
+}
+
+.button.logo-button:hover {
+    background: #9ccfd8;
 }
