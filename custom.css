@@ -220,10 +220,6 @@ a {
     background: #2a2837;
 }
 
-.scrollable {
-    background: #26233a;
-}
-
 .column {
     background: #26233a !important;
 }
@@ -253,4 +249,12 @@ a {
 
 .button.logo-button:hover {
     background: #9ccfd8;
+}
+
+.column > .scrollable {
+    background: #1f1d2e !important;
+}
+
+.reply-indicator {
+    background: #6e6a86;
 }
