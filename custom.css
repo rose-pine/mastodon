@@ -323,3 +323,9 @@ body.lighter {
 .simple_form button:hover {
     background-color: #9ccfd8;
 }
+
+.flash-message.notice {
+    border: 1px solid #c4a7e7;
+    background: #9ccfd8;
+    color: #e0def4;
+}
