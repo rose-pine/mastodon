@@ -18,13 +18,26 @@
 3. Paste the contents of [custom.css](https://github.com/rose-pine/mastodon/blob/main/custom.css) into Custom CSS
 4. Click `SAVE CHANGES`
 
+## Thanks to
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
+
 ## Gallery
 
 ### As featured by default on https://voring.me
 
-![Screenshot_2021-11-16-10-39-20_2560x1440](https://user-images.githubusercontent.com/44733677/142147701-79d92160-9c0b-4a35-8e09-ad91a2739c85.png)
+![Screenshot_2021-11-17-12-07-37_2560x1440](https://user-images.githubusercontent.com/44733677/142160340-c9c38fdf-34ac-4dc9-91f4-3d87d60e6702.png)
 
-## Thanks to
+![Screenshot_2021-11-17-12-08-11_2560x1440](https://user-images.githubusercontent.com/44733677/142160425-a936a265-59b3-4d95-bd34-f63d61df4e33.png)
 
-- [ThatOneCalculator](https://github.com/thatonecalculator)
+![Screenshot_2021-11-17-12-14-43_2560x1440](https://user-images.githubusercontent.com/44733677/142161354-c801c402-0fdd-4c3b-81e7-01aea53ac096.png)
+
+![Screenshot_2021-11-17-12-08-23_2560x1440](https://user-images.githubusercontent.com/44733677/142160462-72390ecc-d059-4c21-a0e2-df026915a802.png)
+
+![Screenshot_2021-11-17-12-09-02_2560x1440](https://user-images.githubusercontent.com/44733677/142160561-e9c43df9-0bb9-46d7-9bb4-d6ffd65c9ad2.png)
+
+![Screenshot_2021-11-17-12-09-46_2560x1440](https://user-images.githubusercontent.com/44733677/142160653-316e327a-10be-4a66-8fd5-c47b75613a76.png)
+
+![Screenshot_2021-11-17-12-09-13_2560x1440](https://user-images.githubusercontent.com/44733677/142160587-0c9bbf74-fab9-427f-b8d1-f8894aa6f83f.png)
+
 
