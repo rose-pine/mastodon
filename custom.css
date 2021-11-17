@@ -1,6 +1,6 @@
 body {
-  background: #1f1d2e;
-  color: #e0def4;
+    background: #1f1d2e;
+    color: #e0def4;
 }
 
 a {
@@ -35,7 +35,8 @@ a {
     color: #9ccfd8;
 }
 
-.icon-button.star-icon.active, .notification__favourite-icon-wrapper .star-icon {
+.icon-button.star-icon.active,
+.notification__favourite-icon-wrapper .star-icon {
     color: #f6c177;
 }
 
@@ -43,11 +44,14 @@ a {
     color: #31748f;
 }
 
-.notification__message{
-  color: #6e6a86;
+.notification__message {
+    color: #6e6a86;
 }
 
-.muted .status__content, .muted .status__content a, .muted .status__content p, .muted .status__display-name strong {
+.muted .status__content,
+.muted .status__content a,
+.muted .status__content p,
+.muted .status__display-name strong {
     color: #6e6a86;
 }
 
@@ -73,7 +77,8 @@ a {
     color: #31748f;
 }
 
-.confirmation-modal__container, .report-modal__target {
+.confirmation-modal__container,
+.report-modal__target {
     background-color: #26233a;
     color: #e0def4;
 }
@@ -83,7 +88,9 @@ a {
     color: #e0def4;
 }
 
-.confirmation-modal, .mute-modal, .report-modal {
+.confirmation-modal,
+.mute-modal,
+.report-modal {
     background-color: #191724;
     color: #e0def4;
 }
@@ -98,12 +105,15 @@ button {
     color: #e0def4;
 }
 
-.compose-form, .compose-form__buttons-wrapper {
+.compose-form,
+.compose-form__buttons-wrapper {
     background-color: #1f1d2e;
     color: #e0def4;
 }
 
-.compose-form, .compose-form__modifiers, .compose-form__uploads-wrapper {
+.compose-form,
+.compose-form__modifiers,
+.compose-form__uploads-wrapper {
     background-color: #1f1d2e;
     color: #e0def4;
 }
@@ -116,7 +126,8 @@ button {
     background: #eb6f92 !important;
 }
 
-.compose-form .autosuggest-textarea__textarea, .compose-form .spoiler-input__input {
+.compose-form .autosuggest-textarea__textarea,
+.compose-form .spoiler-input__input {
     background: #393552;
     color: #e0def4;
 }
@@ -143,7 +154,8 @@ button {
     background: #26233a;
 }
 
-.account__section-headline button, .notification__filter-bar button {
+.account__section-headline button,
+.notification__filter-bar button {
     background: #191724;
 }
 
@@ -166,4 +178,21 @@ button {
 .column-header__back-button {
     background: #26233a;
     color: #31748f;
+}
+
+.column-subheading {
+    background: #555169;
+    color: #e0def4;
+}
+
+.column-link {
+    background: #555169;
+}
+
+.column-link:hover {
+    background: #6e6a86;
+}
+
+.getting-started__footer {
+    background: #26233a;
 }
