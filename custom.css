@@ -329,3 +329,19 @@ body.lighter {
     background: #9ccfd8;
     color: #e0def4;
 }
+
+.simple_form button.negative {
+    background: #eb6f92;
+}
+
+.simple_form button.negative:hover {
+    background: #ebbcba;
+}
+
+.simple_form button {
+    background: #31748f;
+}
+
+.simple_form button:hover {
+    background: #9ccfd8;
+}
