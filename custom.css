@@ -7,7 +7,7 @@ html {
     scrollbar-color: #555169 rgba(0, 0, 0, 0.1);
 }
 
-a {
+a, .status__content a.unhandled-link {
     color: #31748f;
 }
 
