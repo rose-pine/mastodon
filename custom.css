@@ -324,12 +324,6 @@ body.lighter {
     background-color: #9ccfd8;
 }
 
-.flash-message.notice {
-    border: 1px solid #c4a7e7;
-    background: #9ccfd8;
-    color: #191724;
-}
-
 .simple_form button.negative {
     background: #eb6f92;
 }
@@ -376,4 +370,20 @@ body.lighter {
 .privacy-dropdown__option {
     background: #555169;
     color: #191724;
+}
+
+.compose-form__poll-wrapper {
+    border-top: 1px solid #555169;
+    background: #26233a;
+    color: #e0def4;
+}
+
+.poll__footer {
+    background: #26233a;
+    color: #e0def4;
+}
+
+select {
+    background: #26233a;
+    color: #e0def4;
 }
