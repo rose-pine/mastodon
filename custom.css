@@ -282,3 +282,24 @@ a {
 .column-header__collapsible-inner {
     background: #6e6a86;
 }
+
+.admin-wrapper .sidebar-wrapper__inner {
+    background: #26233a;
+}
+
+.admin-wrapper .sidebar ul .simple-navigation-active-leaf a {
+    color: #e0def4;
+    background-color: #31748f;
+}
+
+.admin-wrapper .sidebar ul .simple-navigation-active-leaf a:hover {
+    background-color: #9ccfd8;
+}
+
+.button {
+    background-color: #31748f;
+}
+
+.button:active, .button:focus, .button:hover {
+    background-color: #9ccfd8;
+}
