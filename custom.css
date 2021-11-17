@@ -345,3 +345,15 @@ body.lighter {
 .simple_form button:hover {
     background: #9ccfd8;
 }
+
+.simple_form .button, .simple_form button {
+    background-color: #31748f;
+}
+
+.simple_form .button:hover, .simple_form button:hover {
+    background-color: #9ccfd8;
+}
+
+.directory__tag > a, .hero-widget__text {
+    background: #26233a;
+}
