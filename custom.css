@@ -418,6 +418,10 @@ select {
     color: #e0def4;
 }
 
+.emoji-picker-dropdown__menu {
+    background: #1f1d2e;
+}
+
 .status__content a {
     color: #31748f;
 }
