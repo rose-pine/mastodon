@@ -41,4 +41,6 @@
 
 ![Screenshot_2021-11-17-12-09-13_2560x1440](https://user-images.githubusercontent.com/44733677/142160587-0c9bbf74-fab9-427f-b8d1-f8894aa6f83f.png)
 
+![Screenshot_2021-11-17-12-43-24_2560x1440](https://user-images.githubusercontent.com/44733677/142166717-991d7651-41f5-49ee-938d-15f82ac10df5.png)
 
+![Screenshot_2021-11-17-12-44-00_2560x1440](https://user-images.githubusercontent.com/44733677/142166798-66d730a4-aea4-48b5-b966-ec7be9860374.png)
