@@ -307,3 +307,19 @@ a {
 .announcements__item {
     background: #555169;
 }
+
+.box-widget {
+    background: #26233a;
+}
+
+body.lighter {
+    background: #1f1d2e;
+}
+
+.simple_form button {
+    background-color: #31748f;
+}
+
+.simple_form button:hover {
+    background-color: #9ccfd8;
+}
