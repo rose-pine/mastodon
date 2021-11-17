@@ -413,6 +413,11 @@ select {
     background: #1f1d2e;
 }
 
+.emoji-mart-category-label span {
+    background: #1f1d2e;
+    color: #e0def4;
+}
+
 .status__content a {
     color: #31748f;
 }
