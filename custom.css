@@ -258,3 +258,27 @@ a {
 .reply-indicator {
     background: #6e6a86;
 }
+
+.react-toggle--checked .react-toggle-track {
+    background-color: #31748f;
+}
+
+.react-toggle--checked:hover:not(.react-toggle--disabled) .react-toggle-track {
+    background-color: #9ccfd8;
+}
+
+.filter-form {
+    background: #26233a;
+}
+
+.directory__card__bar {
+    background: #191724;
+}
+
+.directory__card__extra {
+    background: #1f1d2e;
+}
+
+.column-header__collapsible-inner {
+    background: #6e6a86;
+}
