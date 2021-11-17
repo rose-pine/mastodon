@@ -357,3 +357,23 @@ body.lighter {
 .directory__tag > a, .hero-widget__text {
     background: #26233a;
 }
+
+.privacy-dropdown__option.active {
+    background: #31748f;
+    color: #e0def4;
+}
+
+.privacy-dropdown__option.active:hover {
+    background: #9ccfd8;
+    color: #e0def4;
+}
+
+.privacy-dropdown__option:hover {
+    background: #9ccfd8;
+    color: #e0def4;
+}
+
+.privacy-dropdown__option {
+    background: #555169;
+    color: #191724;
+}
