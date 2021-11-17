@@ -15,11 +15,9 @@
 
 1. Go to `https://yourinstance.com/admin/settings/edit`
 2. Scroll down to the bottom
-3. Paste the following into Custom CSS:
-```css
-@import url("https://raw.githubusercontent.com/rose-pine/mastodon/main/custom.css");
-```
+3. Paste the contents of [custom.css](https://github.com/rose-pine/mastodon/blob/main/custom.css) into Custom CSS.
 4. Click `SAVE CHANGES`
+> Please note `@import` does NOT seem to work.
 
 ## Thanks to
 
