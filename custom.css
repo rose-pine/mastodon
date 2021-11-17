@@ -412,3 +412,7 @@ select {
 .emoji-mart-scroll {
     background: #1f1d2e;
 }
+
+.status__content a {
+    color: #31748f;
+}
