@@ -422,6 +422,10 @@ select {
     background: #1f1d2e;
 }
 
+.emoji-mart-anchor-selected {
+    color: #31748f;
+}
+
 .status__content a {
     color: #31748f;
 }
